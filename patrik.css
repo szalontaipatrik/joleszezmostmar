@@ -1,3 +1,7 @@
+body{
+    background-color:bisque;
+}
+
 span {
     position: absolute;
     left: 50%;
