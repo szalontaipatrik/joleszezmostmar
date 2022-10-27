@@ -1,0 +1,29 @@
+span {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    display: block;
+    color:blueviolet;
+    font-size: 124px;
+    letter-spacing: 8px;
+    cursor: pointer;
+}
+
+.nyilak {
+    position: absolute;
+    top: 80%;
+    right: 5%;
+    z-index: 10000;
+    margin: auto;
+    border-radius: 20px;
+    text-align: center;
+    align-items: center;
+    width: 55px;
+    height: 55px;
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    border: 2px solid white;
+    background: white;
+    color: #4e54c8;
+}
